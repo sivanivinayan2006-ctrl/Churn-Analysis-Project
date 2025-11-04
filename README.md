@@ -19,6 +19,9 @@ Done with visualizations like:
 . Count plots
 . Box plots
 
+<img width="1341" height="769" alt="Screenshot 2025-10-24 151612" src="https://github.com/user-attachments/assets/75b0e9e1-8c56-404e-a555-29777609c49b" />
+
+
 Key Insights:
 Customers with month-to-month contracts are more likely to churn
 Higher monthly charges correlate with higher churn probability
